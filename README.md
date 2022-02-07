@@ -1,12 +1,8 @@
-# (Application Name)
+# OpenWeather API Project
 
-#### (Brief Description of Application)
+#### Exercise designed to gain practice with APIs
 
-#### By (Your Name Here)
-
-### _Link to GitHub Repository_
-
-- LINK
+#### By Ryan Spencer, Riley Shimp, Ryan Ashby
 
 ## Technologies Used
 
@@ -22,6 +18,8 @@
 - _jQuery_
 
 ## Description
+
+_Project utilizing OpenWeather API designed to return basic weather information and seven day forecast based on user input_
 
 ## Setup/Installation Requirements
 
